@@ -1,5 +1,5 @@
 body {
-color: rgb(212, 10, 10); 
+color: rgb(10, 247, 247); 
 background-color: rgb(3, 10, 78);
 margin: 0px;
 font-family: "Anton";
@@ -7,14 +7,14 @@ margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(212, 10, 10);
+    border-bottom: solid 2px rgb(8, 151, 3);
     padding: 20px;
     font-size: 32px;
     color: rgb(21, 116, 204);
 }
 
 .chamada {
-    background: rgb(1, 114, 26);
+    background: rgb(112, 3, 3);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
